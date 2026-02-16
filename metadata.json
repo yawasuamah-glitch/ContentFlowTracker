@@ -1,0 +1,5 @@
+{
+  "name": "Content Creator Flow",
+  "description": "A specialized content tracker for creators using Substack and YouTube. Features AI-powered drafting and thumbnail generation using Gemini.",
+  "requestFramePermissions": []
+}
